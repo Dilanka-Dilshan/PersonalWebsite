@@ -834,10 +834,16 @@ section .container {
   font-weight: 600;
 }
 
+.portfolio .portfolio-wrap .portfolio-info h4 {
+  font-size: 20px;
+  color: #fff;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
 .portfolio .portfolio-wrap .portfolio-info p {
   color: #ffffff;
   font-size: 14px;
-  text-transform: uppercase;
   padding: 0;
   margin: 0;
 }
@@ -1191,4 +1197,16 @@ section .container {
 
 .full{
   width: 100%;
+}
+.img-icon{
+  margin-right: 30px;
+}
+
+.btn-check{
+  font-size: small;
+  align-items: center;
+  color: white;
+}
+.space{
+  margin-right: 50px;
 }
